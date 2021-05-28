@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638616290139",
+    "firebase_url": "https://samsow.firebaseio.com",
+    "project_id": "samsow",
+    "storage_bucket": "samsow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638616290139:android:6d5d79cc3e120304b3d07e",
+        "android_client_info": {
+          "package_name": "com.example.samsow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638616290139-qmcr6fbnlbei0j7mfot5m540dluerj8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKg_f5w9UVNWQ7V1iDcF_hg4KIylpEfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638616290139-qmcr6fbnlbei0j7mfot5m540dluerj8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
